@@ -1,0 +1,21 @@
+project:
+  id: "2025_BA"
+  name: "2025_bachelor_thesis"
+
+experiment:
+  id: "2023_bosau"
+  name: "2023_treecable_bosau_v1"
+
+paths:
+  working: "working"
+  results: "../../400_results/2023_treecable_bosau_v1"
+  notebooks: "notebooks"
+  scripts: "scripts"
+
+devices:
+  use_overview: true
+  use_ls3: true
+  use_ptq: false
+  use_tms: true
+  use_tcc: false
+
